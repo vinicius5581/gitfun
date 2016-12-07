@@ -14,11 +14,14 @@ We will play different roles on different scenarios one ate the time.
 
 
 1. Create a branch
-![alt text][imgs/logo]
+
+![Create a branch][https://github.com/vinicius5581/gitfun/blob/Exercise-1/img/create_a_branch.png]
+
 2. Add commits
 3. Open a Pull Request
 4. Discuss and review your code
 5. Merge
+
 
 
 - [ ] Exercise 2 - Shared Repository 
