@@ -15,7 +15,7 @@ We will play different roles on different scenarios one ate the time.
 
 1. Create a branch
 ![Create a branch](https://github.com/vinicius5581/gitfun/blob/Exercise-1/img/create_a_branch.png)
-2. Add commits
+2. Add commits - See instruction on exercise-1 folder
 ![Create a branch](https://github.com/vinicius5581/gitfun/blob/Exercise-1/img/add_commits.png)
 3. Open a Pull Request
 ![Create a branch](https://github.com/vinicius5581/gitfun/blob/Exercise-1/img/open_a_pull_request.png)
