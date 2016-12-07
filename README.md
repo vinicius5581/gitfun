@@ -25,6 +25,8 @@ We will play different roles on different scenarios one ate the time.
 ![Create a branch](https://github.com/vinicius5581/gitfun/blob/Exercise-1/img/merge.png)
 
 
+[Images source](https://guides.github.com/introduction/flow/)
+
 - [ ] Exercise 2 - Shared Repository 
 
 1. To do 
