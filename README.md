@@ -7,17 +7,14 @@ We will play different roles on different scenarios one ate the time.
 - Actor 1 @vinicius5581
 - Actor 2 @fernanda1411
 
-- [ ] Scenario 1
-
-> Actor 1 is the project owner.
-
-> Actor 2 want's to propose a change. 
-
-- [ ] Scenario 2
 
 
+- [ ] Exercise 1
 
-To dos:
+1. Create a branch
+2. Add commits
+3. Open a Pull Request
+4. Discuss and review your code
+5. Merge
 
-1. Scenario 1
-2. Scenario 2
+
