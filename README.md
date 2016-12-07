@@ -9,7 +9,9 @@ We will play different roles on different scenarios one ate the time.
 
 
 
-- [ ] Exercise 1
+
+- [ ] Exercise 1 - Fork & Pull Model
+
 
 1. Create a branch
 2. Add commits
@@ -18,3 +20,6 @@ We will play different roles on different scenarios one ate the time.
 5. Merge
 
 
+- [ ] Exercise 2 - Shared Repository 
+
+1. To do 
