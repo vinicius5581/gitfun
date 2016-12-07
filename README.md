@@ -14,6 +14,7 @@ We will play different roles on different scenarios one ate the time.
 
 
 1. Create a branch
+![alt text][imgs/logo]
 2. Add commits
 3. Open a Pull Request
 4. Discuss and review your code
